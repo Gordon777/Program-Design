@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\1129HW\1129HW\bin\Debug\1129HW.exe.config
+C:\Users\mac\source\repos\1129HW\1129HW\bin\Debug\1129HW.exe
+C:\Users\mac\source\repos\1129HW\1129HW\bin\Debug\1129HW.pdb
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\1129HW.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\_1129HW.Form1.resources
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\_1129HW.Properties.Resources.resources
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\1129HW.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\1129HW.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\1129HW.exe
+C:\Users\mac\source\repos\1129HW\1129HW\obj\Debug\1129HW.pdb

@@ -1,0 +1,5 @@
+C:\Users\mac\source\repos\Textbook L10 Part1 shape\Textbook L10 Part1 shape\obj\Debug\Textbook L10 Part1 shape.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook L10 Part1 shape\Textbook L10 Part1 shape\obj\Debug\Textbook_L10_Part1_shape.Form1.resources
+C:\Users\mac\source\repos\Textbook L10 Part1 shape\Textbook L10 Part1 shape\obj\Debug\Textbook_L10_Part1_shape.Properties.Resources.resources
+C:\Users\mac\source\repos\Textbook L10 Part1 shape\Textbook L10 Part1 shape\obj\Debug\Textbook L10 Part1 shape.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\Textbook L10 Part1 shape\Textbook L10 Part1 shape\obj\Debug\Textbook L10 Part1 shape.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\obj\Debug\Textbook CH11 overflow.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\obj\Debug\Textbook CH11 overflow.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\bin\Debug\Textbook CH11 overflow.exe.config
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\bin\Debug\Textbook CH11 overflow.exe
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\bin\Debug\Textbook CH11 overflow.pdb
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\obj\Debug\Textbook CH11 overflow.exe
+C:\Users\mac\source\repos\Textbook CH11 overflow\Textbook CH11 overflow\obj\Debug\Textbook CH11 overflow.pdb

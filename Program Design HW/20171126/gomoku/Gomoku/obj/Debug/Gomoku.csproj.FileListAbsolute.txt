@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\mac\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\mac\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\mac\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.pdb

@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\bin\Debug\HW_日幣換台幣.exe.config
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\bin\Debug\HW_日幣換台幣.exe
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\bin\Debug\HW_日幣換台幣.pdb
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\obj\Debug\HW_日幣換台幣.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\obj\Debug\HW_日幣換台幣.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\obj\Debug\HW_日幣換台幣.exe
+C:\Users\mac\source\repos\HW_日幣換台幣\HW_日幣換台幣\obj\Debug\HW_日幣換台幣.pdb

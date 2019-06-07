@@ -1,0 +1,5 @@
+c:\users\mac\source\repos\Textbook L8 time\Textbook L8 time\obj\Debug\Textbook L8 time.csprojResolveAssemblyReference.cache
+c:\users\mac\source\repos\Textbook L8 time\Textbook L8 time\obj\Debug\Textbook_L8_time.Form1.resources
+c:\users\mac\source\repos\Textbook L8 time\Textbook L8 time\obj\Debug\Textbook_L8_time.Properties.Resources.resources
+c:\users\mac\source\repos\Textbook L8 time\Textbook L8 time\obj\Debug\Textbook L8 time.csproj.GenerateResource.Cache
+c:\users\mac\source\repos\Textbook L8 time\Textbook L8 time\obj\Debug\Textbook L8 time.csproj.CoreCompileInputs.cache

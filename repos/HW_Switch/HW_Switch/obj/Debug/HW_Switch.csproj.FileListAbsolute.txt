@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\bin\Debug\HW_Switch.exe.config
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\bin\Debug\HW_Switch.exe
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\bin\Debug\HW_Switch.pdb
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\obj\Debug\HW_Switch.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\obj\Debug\HW_Switch.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\obj\Debug\HW_Switch.exe
+C:\Users\mac\source\repos\HW_Switch\HW_Switch\obj\Debug\HW_Switch.pdb

@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\tank\tank\bin\Debug\tank.exe.config
+C:\Users\mac\source\repos\tank\tank\bin\Debug\tank.exe
+C:\Users\mac\source\repos\tank\tank\bin\Debug\tank.pdb
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.Form1.resources
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.Properties.Resources.resources
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.exe
+C:\Users\mac\source\repos\tank\tank\obj\Debug\tank.pdb

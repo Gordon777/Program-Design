@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\point3\point3\bin\Debug\point3.exe.config
+C:\Users\mac\source\repos\point3\point3\bin\Debug\point3.exe
+C:\Users\mac\source\repos\point3\point3\bin\Debug\point3.pdb
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.Form1.resources
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.Properties.Resources.resources
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.exe
+C:\Users\mac\source\repos\point3\point3\obj\Debug\point3.pdb

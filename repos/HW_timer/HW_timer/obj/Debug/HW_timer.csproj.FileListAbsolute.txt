@@ -1,0 +1,5 @@
+C:\Users\mac\source\repos\HW_timer\HW_timer\obj\Debug\HW_timer.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_timer\HW_timer\obj\Debug\HW_timer.Form1.resources
+C:\Users\mac\source\repos\HW_timer\HW_timer\obj\Debug\HW_timer.Properties.Resources.resources
+C:\Users\mac\source\repos\HW_timer\HW_timer\obj\Debug\HW_timer.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\HW_timer\HW_timer\obj\Debug\HW_timer.csproj.CoreCompileInputs.cache

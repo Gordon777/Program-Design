@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\bin\Debug\Textbook L4 For複利.exe.config
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\bin\Debug\Textbook L4 For複利.exe
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\bin\Debug\Textbook L4 For複利.pdb
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\obj\Debug\Textbook L4 For複利.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\obj\Debug\Textbook L4 For複利.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\obj\Debug\Textbook L4 For複利.exe
+C:\Users\mac\source\repos\Textbook L4 For複利\Textbook L4 For複利\obj\Debug\Textbook L4 For複利.pdb

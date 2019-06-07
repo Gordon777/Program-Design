@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Textbook_L4_For複利
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            decimal amount, principal = (decimal)1000.00;
+            double rate = .05;
+            string output;
+            output = "Year\tAmount on deposit\n";
+            for (int year = 1; year <= 10; year++)
+            {
+                amount = principal * (decimal)Math.Pow(1 + rate, year);
+                output = output+year + "\t" + string.Format("{0:C}", amount) + "\n";
+            }
+            Console.Write(output);
+            Console.Read();
+        }
+    }
+}

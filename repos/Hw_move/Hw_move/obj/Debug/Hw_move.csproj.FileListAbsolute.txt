@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\Hw_move\Hw_move\bin\Debug\Hw_move.exe.config
+C:\Users\mac\source\repos\Hw_move\Hw_move\bin\Debug\Hw_move.exe
+C:\Users\mac\source\repos\Hw_move\Hw_move\bin\Debug\Hw_move.pdb
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.Form1.resources
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.Properties.Resources.resources
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.exe
+C:\Users\mac\source\repos\Hw_move\Hw_move\obj\Debug\Hw_move.pdb

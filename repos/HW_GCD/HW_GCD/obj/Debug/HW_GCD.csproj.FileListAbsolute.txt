@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\bin\Debug\HW_GCD.exe.config
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\bin\Debug\HW_GCD.exe
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\bin\Debug\HW_GCD.pdb
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\obj\Debug\HW_GCD.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\obj\Debug\HW_GCD.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\obj\Debug\HW_GCD.exe
+C:\Users\mac\source\repos\HW_GCD\HW_GCD\obj\Debug\HW_GCD.pdb

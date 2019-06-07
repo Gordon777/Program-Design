@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace HW_GCD
+{
+
+     class program
+    {
+        static void Main(string[] args)
+        {
+            int a = 50, b = 6, temp = 0;//盢a.bА砞0计
+            MessageBox.Show(a + "籔" + b+"程そ计");
+            while (b != 0) //bぃ单O
+            {
+                temp = a % b; //―a,b埃緇计
+                a = b; //盢埃计b传Θ埃计a
+                b = temp; //盢玡埃眔緇计砞﹚埃计(b)
+
+            }
+            MessageBox.Show("程そ计"+a);
+            
+        }
+    }
+}

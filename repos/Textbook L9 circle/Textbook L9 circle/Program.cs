@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace point3
+{
+ 
+        public class point3
+        {
+            private int x, y;
+            public point3() { }
+            public point3(int xValue, int yValue)
+            {
+                X = xValue;
+                Y = yValue;
+            }
+            public int X
+            {
+                get { return x; }///讀取變數時執行的程式碼
+                set { x = value; }///存入值時執行程式碼
+            }
+            public int Y
+            {
+                get { return y; }///讀取變數時執行的程式碼
+                set { y = value; }///存入值時執行的程式碼
+            }
+            public override string ToString()
+            {
+                return "[" + X + "," + Y + "]";
+            }
+        }
+        public class circle4 : point3///繼承point3
+        {
+            private double radius;
+            public circle4() { }
+            public circle4(int xValue, int yValue, double radiusValue) : base(xValue, yValue) { Radius = radiusValue; }
+            public double Radius
+            {
+                get { return radius; }
+                set
+                {
+                    if (value >= 0)
+                        radius = value;
+
+                }
+
+            }
+            public double Diameter() { return Radius * 2; }
+            public double Circumference()
+            {
+                return Math.PI * Diameter();
+            }
+            public virtual double Area()
+            {
+                return Math.PI * Math.Pow(Radius, 2);
+            }
+            public override string ToString()
+            {
+                return "Center=" + base.ToString() + "Radius;";
+
+            }
+            class CircleTest4
+            {
+                static void Main(string[] args)
+                {
+                    circle4 circle = new circle4(37, 43, 2.5);
+                    string output = "X coordinate is " + circle.X + "\n" + "Y coordinate is " + circle.Y + "\n" + "Radius is " + circle.Radius;
+                    circle.X = 2;
+                    circle.Y = 2;
+                    circle.Radius = 4.25;
+                    output += "\n\n" + "The new location and radius of circle are" + "\n" + circle + "\n";
+                    output += "Diameter is" + String.Format("{0:F}", circle.Diameter()) + "\n";
+                    output += "Circumference is" + String.Format("{0:F}", circle.Circumference()) + "\n";
+                    output += "Area is" + String.Format("{0:F}", circle.Area());
+                    MessageBox.Show(output, "Demonstrating Class Circle4");
+                }
+            }
+        }
+
+
+
+
+    }
+
+

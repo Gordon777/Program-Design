@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\bin\Debug\TextbookL9 GCcollect.exe.config
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\bin\Debug\TextbookL9 GCcollect.exe
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\bin\Debug\TextbookL9 GCcollect.pdb
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\obj\Debug\TextbookL9 GCcollect.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\obj\Debug\TextbookL9 GCcollect.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\obj\Debug\TextbookL9 GCcollect.exe
+C:\Users\mac\source\repos\TextbookL9 GCcollect\TextbookL9 GCcollect\obj\Debug\TextbookL9 GCcollect.pdb

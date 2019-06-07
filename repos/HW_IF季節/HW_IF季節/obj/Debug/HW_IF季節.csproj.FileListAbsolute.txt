@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\bin\Debug\HW_IF季節.exe.config
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\bin\Debug\HW_IF季節.exe
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\bin\Debug\HW_IF季節.pdb
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\obj\Debug\HW_IF季節.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\obj\Debug\HW_IF季節.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\obj\Debug\HW_IF季節.exe
+C:\Users\mac\source\repos\HW_IF季節\HW_IF季節\obj\Debug\HW_IF季節.pdb

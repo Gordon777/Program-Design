@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\Phonecall\Phonecall\bin\Debug\Phonecall.exe.config
+C:\Users\mac\source\repos\Phonecall\Phonecall\bin\Debug\Phonecall.exe
+C:\Users\mac\source\repos\Phonecall\Phonecall\bin\Debug\Phonecall.pdb
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.Form1.resources
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.Properties.Resources.resources
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.exe
+C:\Users\mac\source\repos\Phonecall\Phonecall\obj\Debug\Phonecall.pdb

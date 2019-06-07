@@ -1,0 +1,5 @@
+c:\users\mac\source\repos\Textbook L8 Employ\Textbook L8 Employ\obj\Debug\Textbook L8 Employ.csprojResolveAssemblyReference.cache
+c:\users\mac\source\repos\Textbook L8 Employ\Textbook L8 Employ\obj\Debug\Textbook_L8_Employ.Form1.resources
+c:\users\mac\source\repos\Textbook L8 Employ\Textbook L8 Employ\obj\Debug\Textbook_L8_Employ.Properties.Resources.resources
+c:\users\mac\source\repos\Textbook L8 Employ\Textbook L8 Employ\obj\Debug\Textbook L8 Employ.csproj.GenerateResource.Cache
+c:\users\mac\source\repos\Textbook L8 Employ\Textbook L8 Employ\obj\Debug\Textbook L8 Employ.csproj.CoreCompileInputs.cache

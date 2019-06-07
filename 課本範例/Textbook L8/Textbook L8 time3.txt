@@ -1,0 +1,196 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace TextbookL8_Time3
+{
+
+
+
+    
+    public class TimeTest3 : System.Windows.Forms.Form
+    {
+        private System.Windows.Forms.Label hourLabel;
+        private System.Windows.Forms.TextBox hourTextBox;
+        private System.Windows.Forms.Button hourButton;
+
+        private System.Windows.Forms.Label minuteLabel;
+        private System.Windows.Forms.TextBox minuteTextBox;
+        private System.Windows.Forms.Button minuteButton;
+
+        private System.Windows.Forms.Label secondLabel;
+        private System.Windows.Forms.TextBox secondTextBox;
+        private System.Windows.Forms.Button secondButton;
+
+        private System.Windows.Forms.Button addButton;
+
+        private System.Windows.Forms.Label displayLabel1;
+        private System.Windows.Forms.TextBox displayLabel2;
+        private System.ComponentModel.Container components = null;
+
+        private Time3 time;
+
+        private void InitializeComponent()
+        {
+            this.hourLab = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // hourLab
+            // 
+            this.hourLab.AutoSize = true;
+            this.hourLab.Location = new System.Drawing.Point(45, 77);
+            this.hourLab.Name = "hourLab";
+            this.hourLab.Size = new System.Drawing.Size(47, 18);
+            this.hourLab.TabIndex = 0;
+            this.hourLab.Text = "Hour:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(45, 169);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(62, 18);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Minute:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(45, 285);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(62, 18);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Second:";
+            // 
+            // TimeTest3
+            // 
+            this.ClientSize = new System.Drawing.Size(651, 534);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.hourLab);
+            this.Name = "TimeTest3";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        private Label hourLab;
+        private Label label1;
+        private Label label2;
+    }
+    public class Time3
+    {
+        private int hour;
+        private int minute;
+        private int second;
+        public Time3()
+        {
+            SetTime(0, 0, 0);
+        }
+        public Time3(int hour)
+        {
+            SetTime(hour, 0, 0);
+        }
+        public Time3(int hour, int minute)
+        {
+            SetTime(hour, minute, 0);
+        }
+        public Time3(int hour, int minute, int second)
+        {
+            SetTime(hour, minute, second);
+        }
+        public Time3(Time3 time)
+        {
+            SetTime(time.hour, time.minute, time.second);
+        }
+        public void SetTime(int hourValue, int minuteValue, int secondValue)
+        {
+            Hour = hourValue;
+            Minute = minuteValue;
+            Second = secondValue;
+        }
+        public int Hour
+        {
+            get { return hour; }
+            set { hour = ((value >= 0 && value < 24) ? value : 0); }
+        }
+        public int Minute
+        {
+            get { return minute; }
+            set { minute = ((value >= 0 && value < 60) ? value : 0); }
+        }
+        public int Second
+        {
+            get { return second; }
+            set { second = ((value >= 0 && value < 60) ? value : 0); }
+        }
+        public string ToUniversalString()
+        {
+            return String.Format("{0:D2}:{1:D2}:{2:D2}", Hour, Minute, Second);
+        }
+        public string ToStandardString()
+        {
+            return String.Format("{0}:{1:D2}:{2:D2}{3}", ((Hour == 12 || Hour == 0) ? 12 : Hour % 12), Minute, Second, (Hour < 12 ? "AM" : "PM"));
+        }
+        public TimeTest3()
+        {
+            InitializeComponent();
+            time = new Time3();
+            UpdateDisplay();
+        }
+        [STAThread]
+        static void Main()
+        {
+            Application.Run(new TimeTest3());
+        }
+        public void UpdateDisplay()
+        {
+            displayLabel1.Text = "Hour: " + time.Hour + "; Minute: " + time.Minute + "; Second: " + time.Second;
+            displayLabel2.Text = "Standard time: " + time.TostandardString() + "\nUniversal time: " + time.ToUniversalString();
+        }
+        private void hourButton_Click(object sender, System.EventArgs e)
+        {
+            time.Hour = Int32.Parse(hourTextBox.Text);
+            hourTextBox.Text = "";
+            UpdateDisplay();
+        }
+        private void minuteButton_Click(object sender, System.EventArgs e)
+        {
+            time.Minute = Int32.Parse(minuteTextBox.Text);
+            minuteTextBox.Text = "";
+            UpdateDisplay();
+        }
+        private void secondButton_Click(object sender, System.EventArgs e)
+        {
+            time.Second = Int32.Parse(secondTextBox.Text);
+            secondTextBox.Text = "";
+            UpdateDisplay();
+        }
+        private void addButton_Click(object sender, System.EventArgs e)
+        {
+            time.Second = (time.Second + 1) % 60;
+        }
+        if (time.Second==0)
+       {
+            time.Minute=(time.Minute+1)%60;
+
+            if(time.Minute==0)
+            time.Hour=(time.Hour+1)%24;
+
+        }
+    UpdateDisplay();
+
+
+
+    }
+
+}
+

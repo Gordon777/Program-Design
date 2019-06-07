@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\bin\Debug\Textbook L7.exe.config
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\bin\Debug\Textbook L7.exe
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\bin\Debug\Textbook L7.pdb
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\obj\Debug\Textbook L7.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\obj\Debug\Textbook L7.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\obj\Debug\Textbook L7.exe
+C:\Users\mac\source\repos\Textbook L7\Textbook L7\obj\Debug\Textbook L7.pdb

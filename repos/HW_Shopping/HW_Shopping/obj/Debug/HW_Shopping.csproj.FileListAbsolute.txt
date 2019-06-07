@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\bin\Debug\HW_Shopping.exe.config
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\bin\Debug\HW_Shopping.exe
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\bin\Debug\HW_Shopping.pdb
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\obj\Debug\HW_Shopping.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\obj\Debug\HW_Shopping.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\obj\Debug\HW_Shopping.exe
+C:\Users\mac\source\repos\HW_Shopping\HW_Shopping\obj\Debug\HW_Shopping.pdb

@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\bin\Debug\Textbook L7 foreach.exe.config
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\bin\Debug\Textbook L7 foreach.exe
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\bin\Debug\Textbook L7 foreach.pdb
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\obj\Debug\Textbook L7 foreach.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\obj\Debug\Textbook L7 foreach.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\obj\Debug\Textbook L7 foreach.exe
+C:\Users\mac\source\repos\Textbook L7 foreach\Textbook L7 foreach\obj\Debug\Textbook L7 foreach.pdb

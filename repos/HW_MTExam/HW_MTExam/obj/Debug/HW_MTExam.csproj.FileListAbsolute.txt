@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\bin\Debug\HW_MTExam.exe.config
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\bin\Debug\HW_MTExam.exe
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\bin\Debug\HW_MTExam.pdb
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\obj\Debug\HW_MTExam.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\obj\Debug\HW_MTExam.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\obj\Debug\HW_MTExam.exe
+C:\Users\mac\source\repos\HW_MTExam\HW_MTExam\obj\Debug\HW_MTExam.pdb

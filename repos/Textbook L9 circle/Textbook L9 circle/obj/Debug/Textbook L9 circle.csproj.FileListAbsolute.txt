@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\obj\Debug\Textbook L9 circle.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\obj\Debug\Textbook L9 circle.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\bin\Debug\Textbook L9 circle.exe.config
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\bin\Debug\Textbook L9 circle.exe
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\bin\Debug\Textbook L9 circle.pdb
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\obj\Debug\Textbook L9 circle.exe
+C:\Users\mac\source\repos\Textbook L9 circle\Textbook L9 circle\obj\Debug\Textbook L9 circle.pdb

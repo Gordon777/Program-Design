@@ -1,0 +1,7 @@
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\bin\Debug\HW_Introduction.exe.config
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\bin\Debug\HW_Introduction.exe
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\bin\Debug\HW_Introduction.pdb
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\obj\Debug\HW_Introduction.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\obj\Debug\HW_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\obj\Debug\HW_Introduction.exe
+C:\Users\mac\source\repos\HW_Introduction\HW_Introduction\obj\Debug\HW_Introduction.pdb

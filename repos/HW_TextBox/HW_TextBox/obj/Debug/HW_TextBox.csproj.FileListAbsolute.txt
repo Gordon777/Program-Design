@@ -1,0 +1,10 @@
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.csprojResolveAssemblyReference.cache
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.Form1.resources
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.Properties.Resources.resources
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.csproj.GenerateResource.Cache
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\bin\Debug\HW_TextBox.exe.config
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\bin\Debug\HW_TextBox.exe
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\bin\Debug\HW_TextBox.pdb
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.exe
+C:\Users\mac\source\repos\HW_TextBox\HW_TextBox\obj\Debug\HW_TextBox.pdb

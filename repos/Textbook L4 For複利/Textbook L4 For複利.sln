@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textbook L4 For複利", "Textbook L4 For複利\Textbook L4 For複利.csproj", "{09610BA9-E878-41F3-8641-8C5AD2E7728A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09610BA9-E878-41F3-8641-8C5AD2E7728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09610BA9-E878-41F3-8641-8C5AD2E7728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09610BA9-E878-41F3-8641-8C5AD2E7728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09610BA9-E878-41F3-8641-8C5AD2E7728A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159B6AE9-8801-4CDE-94DD-49D66F289CB9}
+	EndGlobalSection
+EndGlobal
